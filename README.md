@@ -1,8 +1,8 @@
 # data_cleaning
 Ferramentas auxiliares para aplicação de data cleaning
 
-Passos a serem seguidos:<\br>
-1 - apresenta_colunas_unico_valor<\br>
+Passos a serem seguidos:</br>
+1 - apresenta_colunas_unico_valor</br>
 2 - deleta_colunas_com_valor_unico<\br>
 
 O passo 3 pode ser aplicado de duas formas.<\br>
